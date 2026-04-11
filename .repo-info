@@ -1,0 +1,5 @@
+repo: emaildozotti/bruno-faber
+url: https://github.com/emaildozotti/bruno-faber
+vercel: https://bruno-faber-lp.vercel.app
+git: .git neste diretorio
+push: git push origin main (direto daqui)
